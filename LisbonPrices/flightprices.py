@@ -8,7 +8,7 @@ import smtplib
 from email.message import EmailMessage
 
 email_address = "robbebaeyens.it@gmail.com"
-email_password = "ITprojects28"
+email_password = ""
 
 
 
